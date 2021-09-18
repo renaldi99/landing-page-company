@@ -1,4 +1,8 @@
 # landing-page-company
 Landing Page Company - Bootstrap 5
 
-![Image](./ss.jpg?raw=true)
+Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+![alt](https://cdn.jsdelivr.net/gh/renaldi99/assets-cdn@master/landing-page-company.png)
