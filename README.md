@@ -5,4 +5,4 @@ Get started with Bootstrap, the world’s most popular framework for building re
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-![alt](https://cdn.jsdelivr.net/gh/renaldi99/assets-cdn@master/image/landing-page-company.png)
+![alt](https://cdn.jsdelivr.net/gh/renaldi99/assets-cdn@master/image/join-member-coders.png)
